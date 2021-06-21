@@ -1,0 +1,4 @@
+Starting job script
+Directories made
+Running Job...
+slurmstepd: error: *** JOB 2015399 ON cgpu10 CANCELLED AT 2021-06-20T12:14:52 ***
